@@ -22,9 +22,6 @@ open http://${SAMPLE_NODE_IP}:${SAMPLE_NODE_PORT}
 
 
 
-
-```
-
 Delete helm chart.
 
 helm uninstall gnanda1
