@@ -19,10 +19,8 @@ And then open your web browser to http://${SAMPLE_NODE_IP}:${SAMPLE_NODE_PORT}" 
 
 open http://${SAMPLE_NODE_IP}:${SAMPLE_NODE_PORT}
 
+```
 
-
-
-Delete helm chart.
+# Delete helm chart.
 
 helm uninstall gnanda1
-
